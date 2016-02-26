@@ -24,6 +24,11 @@ import com.firebase.client.FirebaseError;
 import java.util.HashMap;
 import java.util.Map;
 
+/*Correct Login Credentials are:
+Email ID: harshalexamalerts@gmail.com
+Password: Firebase12345
+*/
+
 public class StartActivity extends AppCompatActivity {
     // UI references.
     private EditText mEmailView;
